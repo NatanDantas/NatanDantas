@@ -2,4 +2,4 @@
 
 
 
-![Snake animation](https://github.com/NatanDantas/NatanDantas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NatanDantas/NatanDantas/actions/workflows/main.yml)
