@@ -20,7 +20,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanDantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![pulling-my-swords-out-star-wars-visions](https://user-images.githubusercontent.com/38018430/187060207-9e44cd4b-db69-42c5-9ad4-810d7dc8be49.gif)
+![lucy-foda](https://github.com/NatanDantas/NatanDantas/blob/main/lucyfoda.gif)
 
 
 
