@@ -20,7 +20,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanDantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![lucy-foda](https://github.com/NatanDantas/NatanDantas/blob/main/lucyfoda.gif)
+![Baby-Yoda](https://github.com/NatanDantas/Aulas_POO/blob/main/giphy.gif)
 
 
 
