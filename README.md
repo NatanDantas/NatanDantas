@@ -25,3 +25,6 @@
 
 
 ![Snake animation](https://github.com/NatanDantas/NatanDantas/blob/output/github-contribution-grid-snake.svg)
+  
+  
+[![](https://visitcount.itsvg.in/api?id=Neithan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
