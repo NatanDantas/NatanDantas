@@ -23,10 +23,5 @@
 ![Snake animation](https://github.com/NatanDantas/NatanDantas/blob/output/github-contribution-grid-snake.svg)
   
 ![Baby-Yoda](https://github.com/NatanDantas/Aulas_POO/blob/main/giphy.gif)
-
-
-
-
-  
   
 [![](https://visitcount.itsvg.in/api?id=Neithan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
