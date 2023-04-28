@@ -1,8 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Natan Dantas and my nickname is "Neithan"!
 
-- Atualmente estagiando em Engenharia de dados na Claro Brasil / Currently on a internship in Data Engineering at Claro Brasil
-- Cursando Análise e Desenvolvimento de Sistemas no Senac - 3° Semestre / Currently attending to System Analysis and Development course on the third semester
+- Atualmente sou Analista de TI na Claro Brasil / Currently i'm a IT Analyst at Claro Brasil
+- Cursando Análise e Desenvolvimento de Sistemas no Senac - 4° Semestre / Currently attending to System Analysis and Development course on the fourth semester
 
 ### 🧑‍💻Tecnologias e Ferramentas / Technologies and IT Tools
 
