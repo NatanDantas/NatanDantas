@@ -2,7 +2,7 @@
 ### My name is Natan Dantas and my nickname is "Neithan"!
 
 - Atualmente sou Analista de TI na Claro Brasil / Currently i'm a IT Analyst at Claro Brasil
-- Cursando Análise e Desenvolvimento de Sistemas no Senac - 4° Semestre / Currently attending to System Analysis and Development course on the fourth semester
+- Cursando Análise e Desenvolvimento de Sistemas no Senac - 5° Semestre / Currently attending to System Analysis and Development course on the fourth semester
 
 ### 🧑‍💻Tecnologias e Ferramentas / Technologies and IT Tools
 
