@@ -15,12 +15,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/ela
 <a href="https://www.linkedin.com/in/natan-dantas-b33ba0210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div/>
 
-<div>
-<a href="https://github.com/NatanDantas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanDantas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanDantas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ![Baby-Yoda](https://media.giphy.com/media/t79McFW5Yxxff4FP09/giphy.gif)
   
 [![](https://visitcount.itsvg.in/api?id=Neithan&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
